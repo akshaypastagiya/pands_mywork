@@ -7,7 +7,7 @@ import random
 
 numbers = []
 
-for i in range(1,10) :
+for i in range(0,10) :
     numbers.append(random.randint(0,100))
     
 print(f"10 random numbers are {numbers}")
