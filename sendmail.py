@@ -13,7 +13,7 @@ subject = "Introduction"
 body = (f"Hello {name} \n Your age is {age}.")
 sender = "akshay17186@gmail.com"
 recipients = ["G00473015@atu.ie"]
-password = "cvotwqnjlfowbinh123"
+password = "cvotwqnjlfowbinh12345"
 
 
 def send_email(subject, body, sender, recipients, password):
