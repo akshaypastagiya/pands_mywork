@@ -13,6 +13,10 @@ xpoint = np.array(range(1,101))
 # Generate x^2 and assign it to Y point
 ypoint = xpoint * xpoint
 
-plt.plot(xpoint,ypoint)
-
+# Create Plot
+plt.plot(xpoint,ypoint,label="y = x^2")
+plt.legend()
+# Add a title to the plot
+plt.title("Plot of y = x^2")
+# Display Plot
 plt.show()

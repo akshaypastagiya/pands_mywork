@@ -1,4 +1,4 @@
-# salaries1.py
+# 8.1.3_salaries1.py
 # generate 10 randon numbers between 20000 - 80000 using numpy
 # add 5000 bonus in to the salary
 # Aurthor: Akshay Pastagiya

@@ -1,4 +1,4 @@
-# salaries2.py
+# 8.1.2_salaries2.py
 # generate 10 randon numbers between 20000 - 80000 using numpy
 # each time when we generate randon number it will be same everytime
 # Aurthor: Akshay Pastagiya
